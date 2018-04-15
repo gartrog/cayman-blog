@@ -2,7 +2,6 @@
 layout: post
 title: Migration du Parlement
 tags: orchestrerie geekage
-
 ---
 
 En suivant les instructions fournies par Eden

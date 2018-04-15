@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Jardinage: Plantations
+title: "Jardinage: Plantations"
 tags: jardinage
-
 ---
 
 # 7 avril
