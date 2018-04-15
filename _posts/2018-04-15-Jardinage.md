@@ -4,6 +4,8 @@ title: "Jardinage: Plantations"
 tags: jardinage
 ---
 
+Tests plus poussés que l'an dernier, et en s'y prenant plus à l'avance.
+
 # 7 avril
 ## Jardin
 ### Préparation du sol
