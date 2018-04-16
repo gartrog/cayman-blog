@@ -12,8 +12,8 @@ Tests plus poussés que l'an dernier, et en s'y prenant plus à l'avance.
 Desherbage, griffage ; ajout de terreau et d'amendement organique (Biomarine de chez Truffaut). 
 
 ### Plantations
-* Tomates: un plant de chaque: grappe, Marmande, ??? (cœur de bœuf ?)
-* Courgettes: un plant de chaque: longue, ronde (courgette de Nice ?), ???
+* Tomates: un plant de chaque: Saint Pierre (ronde), Marmande, cœur de bœuf
+* Courgettes: un plant de chaque: longue, ronde (courgette de Nice), courgette jaune
 * Thym
 * Persil
 * Quelques œillets d'Inde
